@@ -1,4 +1,4 @@
-# AutoManager
+# Autoboots
 
 ## Guia de Instalação
 
